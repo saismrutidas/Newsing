@@ -27,9 +27,3 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-### Installation
-
-1. **Clone the Repository**
-
-   ```sh
-   git clone https://github.com/praptippradhan/Newsing.git
